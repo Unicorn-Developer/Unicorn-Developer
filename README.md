@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pratik
-- 👀 I’m interested in Computer Science and Full Stack Developement (MERN) stack specifically
-- 💞️ Watch my Youtube videos posted on my channel https://www.youtube.com/channel/UC6vkQid2byoa5Xn4onV9TCQ
+- 👀 I’m interested in Computer science and software developer with experience in MERN stack and application development using Flutter
+- 💞️ Watch tutorials on various topics posted on my YouTube channel https://www.youtube.com/@unicorndeveloper
 - 📫 Reach me at unicorn.developer.in@gmail.com
 
 <!---
